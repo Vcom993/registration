@@ -1,0 +1,16 @@
+body{
+	background: grey;
+}
+
+input{
+	background: black;
+	border: blue 2px solid;
+	color: lightblue;
+}
+
+select{
+	background: black;
+	border: blue 2px solid;
+	color: lightblue;
+}
+
